@@ -1,5 +1,6 @@
-# Hello-World
-Test Repository
-This is a branch/commit test.
+## Hello-World
 
-:)
+_Way better_
+
+**Test Repository**
+This is a branch/commit test.
